@@ -1,0 +1,10 @@
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\colorcentric.csprojResolveAssemblyReference.cache
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\colorcentric.csproj.GenerateResource.Cache
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\printernet.config.resources
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\printernet.Form1.resources
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\printernet.Properties.Resources.resources
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\bin\Debug\printernet.exe.config
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\bin\Debug\printernet.exe
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\bin\Debug\printernet.pdb
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\printernet.exe
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Debug\printernet.pdb

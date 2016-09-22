@@ -1,0 +1,62 @@
+21827988 -- 5/3/2016 10:31:16 PM -- Processing order...
+21827988 -- 5/3/2016 10:31:16 PM -- Successfully Created cXml order file.
+21827988 -- 5/3/2016 10:31:16 PM -- Renamed folder to C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done
+21827988.done -- 5/3/2016 10:31:16 PM -- Processing order...
+ -- 5/3/2016 10:31:16 PM -- System.IO.FileNotFoundException: Could not find file 'C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done\21827988.done'.
+File name: 'C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done\21827988.done'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   at System.Xml.XmlTextReaderImpl..ctor(String uriStr, XmlReaderSettings settings, XmlParserContext context, XmlResolver uriResolver)
+   at System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   at System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings, XmlParserContext inputContext)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at printernet.orderCXML.createXml(String orderXmlPath) in c:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\orderCXML.cs:line 33
+21423108 -- 5/3/2016 10:33:26 PM -- Processing order...
+21423108 -- 5/3/2016 10:33:26 PM -- Successfully Created cXml order file.
+21423108 -- 5/3/2016 10:33:26 PM -- Renamed folder to C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21423108.done
+21423108.done -- 5/3/2016 10:33:32 PM -- Processing order...
+ -- 5/3/2016 10:33:32 PM -- System.IO.FileNotFoundException: Could not find file 'C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21423108.done\21423108.done'.
+File name: 'C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21423108.done\21423108.done'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   at System.Xml.XmlTextReaderImpl..ctor(String uriStr, XmlReaderSettings settings, XmlParserContext context, XmlResolver uriResolver)
+   at System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   at System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings, XmlParserContext inputContext)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at printernet.orderCXML.createXml(String orderXmlPath) in c:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\orderCXML.cs:line 33
+21827988 -- 5/3/2016 10:36:11 PM -- Processing order...
+21827988 -- 5/3/2016 10:36:12 PM -- Successfully Created cXml order file.
+21827988 -- 5/3/2016 10:36:12 PM -- Renamed folder to C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done
+21827988.done -- 5/3/2016 10:36:20 PM -- Processing order...
+ -- 5/3/2016 10:36:20 PM -- System.IO.FileNotFoundException: Could not find file 'C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done\21827988.done'.
+File name: 'C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done\21827988.done'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   at System.Xml.XmlTextReaderImpl..ctor(String uriStr, XmlReaderSettings settings, XmlParserContext context, XmlResolver uriResolver)
+   at System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   at System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings, XmlParserContext inputContext)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at printernet.orderCXML.createXml(String orderXmlPath) in c:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\orderCXML.cs:line 33
+21827988 -- 5/3/2016 10:45:50 PM -- Successfully Created cXml order file.
+21827988 -- 5/3/2016 10:45:50 PM -- Renamed folder to C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done
+21423108 -- 5/3/2016 10:47:24 PM -- Processing order...
+21423108 -- 5/3/2016 10:47:24 PM -- Successfully Created cXml order file.
+21423108 -- 5/3/2016 10:47:24 PM -- Renamed folder to C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21423108.done
+21827988 -- 5/3/2016 10:47:51 PM -- Processing order...
+21827988 -- 5/3/2016 10:47:51 PM -- Successfully Created cXml order file.
+21827988 -- 5/3/2016 10:47:51 PM -- Renamed folder to C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\21827988.done

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cXML version="1.2.005" xml:lang="en-US" payloadID="21423108@camarketing.com" timestamp="2016-05-01T19:30:37.9377819-04:00">
+  <Header>
+    <From>
+      <Credential domain="">
+        <Identity></Identity>
+      </Credential>
+      <Credential domain="">
+        <Identity></Identity>
+      </Credential>
+    </From>
+    <To>
+      <Credential domain="">
+        <Identity></Identity>
+      </Credential>
+    </To>
+    <Sender>
+      <Credential domain="">
+        <Identity></Identity>
+        <SharedSecret>xxxSsecret!</SharedSecret>
+      </Credential>
+    </Sender>
+  </Header>
+  <Request deploymentMode="production">
+    <OrderRequest>
+      <OrderRequestHeader orderID="21423108" orderDate="2015-08-25T15:21:34~-0400" type="24HR">
+        <BillTo>
+          <Address addressID="">
+            <Name xml:lang="en-US">C A Marketing</Name>
+            <PostalAddress name="">
+              <DeliverTo>Attn: Billing</DeliverTo>
+              <Street>2 Bergen Turnpike</Street>
+              <Street></Street>
+              <City>Ridgefield Park</City>
+              <State>NJ</State>
+              <PostalCode>07660</PostalCode>
+              <Country isoCountryCode="US">US</Country>
+            </PostalAddress>
+            <Phone>
+              <TelephoneNumber>
+                <CountryCode isoCountryCode="" />
+                <AreaOrCityCode>201</AreaOrCityCode>
+                <Number>881-1900</Number>
+              </TelephoneNumber>
+            </Phone>
+          </Address>
+        </BillTo>
+        <Shipping>
+          <Money currency="USD" />
+          <Description xml:lang="en-US" />
+        </Shipping>
+        <Tax>
+          <Money currency="USD" />
+          <Description xml:lang="en-US" />
+        </Tax>
+        <Comments xml:lang="en-US" />
+      </OrderRequestHeader>
+      <ItemOut lineNumber="1" quantity="1" requestedDeliveryDate="">
+        <ItemID>
+          <SupplierPartID>3229551</SupplierPartID>
+          <SupplierPartAuxiliaryID></SupplierPartAuxiliaryID>
+        </ItemID>
+        <ItemDetail>
+          <UnitPrice>
+            <Money currency="USD" />
+          </UnitPrice>
+          <Description xml:lang="en-US">11x8.5 Deluxe Lay Flat Photo Book w/ Custom Cover, 16-Page</Description>
+          <UnitOfMeasure></UnitOfMeasure>
+          <Classification domain="" />
+          <URL>ftp://hapeint1.dbroth.net\21423108.order\21423108_001_001.jpg</URL>
+          <Extrinsic name="lineItemID">item1</Extrinsic>
+          <Extrinsic name="quantityMultiplier">1</Extrinsic>
+          <Extrinsic name="Pages">1</Extrinsic>
+          <Extrinsic name="endCustomerOrderID">21423108</Extrinsic>
+          <Extrinsic name="requestedShipper">UPS</Extrinsic>
+          <Extrinsic name="requestedShippingAccount">886A73</Extrinsic>
+          <Extrinsic name="costCenter"></Extrinsic>
+          <Extrinsic name="Borders">false</Extrinsic>
+          <Extrinsic name="Surface">glossy</Extrinsic>
+        </ItemDetail>
+        <ShipTo>
+          <Address addressID="1">
+            <Name xml:lang="en-US" />
+            <PostalAddress name="">
+              <DeliverTo>beverly dorsey</DeliverTo>
+              <Street>3747 DEMOONEY RD</Street>
+              <Street />
+              <City>College Park</City>
+              <State>GA</State>
+              <PostalCode>30349</PostalCode>
+              <Country isoCountryCode="US">US</Country>
+            </PostalAddress>
+            <Phone>
+              <TelephoneNumber>
+                <CountryCode isoCountryCode=""></CountryCode>
+                <AreaOrCityCode>+1</AreaOrCityCode>
+                <Number>(404)</Number>
+              </TelephoneNumber>
+            </Phone>
+          </Address>
+        </ShipTo>
+      </ItemOut>
+      <ItemOut lineNumber="2" quantity="1" requestedDeliveryDate="">
+        <ItemID>
+          <SupplierPartID>3229562</SupplierPartID>
+          <SupplierPartAuxiliaryID></SupplierPartAuxiliaryID>
+        </ItemID>
+        <ItemDetail>
+          <UnitPrice>
+            <Money currency="USD" />
+          </UnitPrice>
+          <Description xml:lang="en-US">11x8.5 Premium Lay Flat Custom Cover</Description>
+          <UnitOfMeasure></UnitOfMeasure>
+          <Classification domain="" />
+          <URL>ftp://hapeint1.dbroth.net\21423108.order\21423108_002_001.jpg</URL>
+          <Extrinsic name="lineItemID">item2</Extrinsic>
+          <Extrinsic name="quantityMultiplier">1</Extrinsic>
+          <Extrinsic name="Pages">1</Extrinsic>
+          <Extrinsic name="endCustomerOrderID">21423108</Extrinsic>
+          <Extrinsic name="requestedShipper">UPS</Extrinsic>
+          <Extrinsic name="requestedShippingAccount">886A73</Extrinsic>
+          <Extrinsic name="costCenter"></Extrinsic>
+          <Extrinsic name="Borders">false</Extrinsic>
+          <Extrinsic name="Surface">glossy</Extrinsic>
+        </ItemDetail>
+        <ShipTo>
+          <Address addressID="1">
+            <Name xml:lang="en-US" />
+            <PostalAddress name="">
+              <DeliverTo>beverly dorsey</DeliverTo>
+              <Street>3747 DEMOONEY RD</Street>
+              <Street />
+              <City>College Park</City>
+              <State>GA</State>
+              <PostalCode>30349</PostalCode>
+              <Country isoCountryCode="US">US</Country>
+            </PostalAddress>
+            <Phone>
+              <TelephoneNumber>
+                <CountryCode isoCountryCode=""></CountryCode>
+                <AreaOrCityCode>+1</AreaOrCityCode>
+                <Number>(404)</Number>
+              </TelephoneNumber>
+            </Phone>
+          </Address>
+        </ShipTo>
+      </ItemOut>
+    </OrderRequest>
+  </Request>
+</cXML>

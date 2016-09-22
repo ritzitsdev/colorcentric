@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<printernet_settings>
+  <orders_folder>C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls</orders_folder>
+  <order_submit_url>https://ritz.printernet.com/Listeners/RitzSqlTest/default.RitzsqlTest</order_submit_url>
+  <shared_secret>xxxSsecret!</shared_secret>
+  <ftp_server>ftp://hapeint1.dbroth.net</ftp_server>
+  <cxml_folder>C:\Users\John\OneDrive\Ritz\Hapeville\samplexmls\cXmls</cxml_folder>
+  <sql_server_connection_info server_name="JOHN-LAPTOP\SQLEXPRESS" database="LabManager_Sandbox" username="sa" password="Multi70" />
+</printernet_settings>

@@ -1,0 +1,10 @@
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\bin\Release\printernet.exe.config
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\bin\Release\printernet.exe
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\bin\Release\printernet.pdb
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\colorcentric.csprojResolveAssemblyReference.cache
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\printernet.config.resources
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\printernet.Form1.resources
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\printernet.Properties.Resources.resources
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\colorcentric.csproj.GenerateResource.Cache
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\printernet.exe
+C:\Users\John\OneDrive\Ritz\Hapeville\Centric\ColorCentric\colorcentric\colorcentric\obj\Release\printernet.pdb
